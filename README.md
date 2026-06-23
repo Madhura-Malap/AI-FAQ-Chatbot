@@ -1,4 +1,4 @@
-# 🤖 🤖 AI-Powered FAQ Chatbot
+# 🤖 AI-Powered FAQ Chatbot
 
 <p >
   <b>An Intelligent FAQ Assistant powered by NLP, TF-IDF Vectorization, and Cosine Similarity.</b>
