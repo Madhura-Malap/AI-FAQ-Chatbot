@@ -1,10 +1,10 @@
 # 🤖 AI FAQ Chatbot
 
-<p align="center">
+<p >
   <b>An Intelligent FAQ Assistant powered by NLP, TF-IDF Vectorization, and Cosine Similarity.</b>
 </p>
 
-<p align="center">
+<p >
   Answer customer queries instantly through semantic question matching and an interactive desktop interface.
 </p>
 
