@@ -58,12 +58,6 @@ Response Displayed
 
 ---
 
-## 📸 Live Demonstration
-
-![AI FAQ Chatbot](chatbot-demo.png)
-
----
-
 ## 🛠️ Technology Stack
 
 | Technology        | Purpose                   |
